@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ozan Ayrim</h1>
 <h3 align="center">FrontEnd & React</h3>
 
