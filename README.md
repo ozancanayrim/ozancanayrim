@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Ayrim</h1>
 <h3 align="center">FrontEnd & React</h3>
 
-- 📫 How to reach me **ozancan708@gmail.com**
+- 📫 Email **ozancan708@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
