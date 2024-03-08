@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ozan</h2>
-<h3 align="center">FrontEnd & React</h3>
+<h3 align="center">FrontEnd & Angular</h3>
 
 
 <h3 align="left">Connect with me:</h3>
